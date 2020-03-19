@@ -43,7 +43,7 @@
 
 ## Fitnessstudio
 
-* [Down Dog - alle APs Yoge etc ](https://www.downdogapp.com/)
+* [Down Dog - alle APPs, Yoge, Fitness etc ](https://www.downdogapp.com/)
 * [McFit](https://app.cyberobics.com/)
 * [FitStar](https://www.fit-star.de/news/aktuelle-mitgliederinfo-zum-thema-coronavirus/)
 * [LesMills](https://watch.lesmillsondemand.com/at-home-workouts)
