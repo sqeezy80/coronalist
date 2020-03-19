@@ -1,6 +1,10 @@
 
 # Freie Online Angebote (Zeitlich Begrenzt)
 --19.03.2020--
+
+## Kommunikation
+* [Deutsche Telekom](https://www.linkedin.com/posts/timhöttges_deutschetelekom-dabei-willnotstop-activity-6646043020611379200-132l/)
+
 ## Krisen und Corona Apps
 * [Nui.care](https://nui.care)
 
