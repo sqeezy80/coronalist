@@ -1,6 +1,9 @@
 
 # Freie Online Angebote (Zeitlich Begrenzt)
 --19.03.2020--
+## Krisen und Corona Apps
+* [Nui.care](https://nui.care)
+
 ## Kultur
 
 * [Berliner Philhamronie](https://www.digitalconcerthall.com/en/home)
@@ -34,9 +37,10 @@
 * [FC Bayern.tc live ](https://fcbayern.com/fcbayerntv/de/fc-bayern.tv-live/fc-bayern.tv-live-livestream)
 * [EPIC Games jeden Monat drei Spiele Link führt zur Erklärung](https://www.chip.de/news/Spannendes-Indie-Game-wird-verschenkt-Jetzt-herunterladen-und-20-Euro-sparen_182545163.html)
 
-### Fitnessstudio
+## Fitnessstudio
 
 * [Down Dog - alle APs Yoge etc ](https://www.downdogapp.com/)
 * [McFit](https://app.cyberobics.com/)
 * [FitStar](https://www.fit-star.de/news/aktuelle-mitgliederinfo-zum-thema-coronavirus/)
 * [LesMills](https://watch.lesmillsondemand.com/at-home-workouts)
+
