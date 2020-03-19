@@ -40,4 +40,3 @@
 * [McFit](https://app.cyberobics.com/)
 * [FitStar](https://www.fit-star.de/news/aktuelle-mitgliederinfo-zum-thema-coronavirus/)
 * [LesMills](https://watch.lesmillsondemand.com/at-home-workouts)
-* 
