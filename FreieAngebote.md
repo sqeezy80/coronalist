@@ -1,9 +1,11 @@
 
 # Freie Online Angebote (Zeitlich Begrenzt)
---19.03.2020--
+--23.03.2020--
 
 ## Kommunikation
-* [Deutsche Telekom](https://www.linkedin.com/posts/timhöttges_deutschetelekom-dabei-willnotstop-activity-6646043020611379200-132l/)
+* [Deutsche Telekom -10 Gb Datenvolumen](https://www.linkedin.com/posts/timhöttges_deutschetelekom-dabei-willnotstop-activity-6646043020611379200-132l/)
+* [Congstar - 5 GB Datenvolumen](https://newsroom.congstar.de/pressreleases/fuer-alle-congstar-mobilfunkkunden-5-gb-extra-daten-geschenkt-2983308?zUserID=101248&zxid=11938_1584954538_40abf26497b04b794d32eb190bb4d42a&awc=11938_1584954538_40abf26497b04b794d32eb190bb4d42a&n=2658613063&zxid=11938_1584954538_40abf26497b04b794d32eb190bb4d42a&zUserID=101248&utm-source=&dclid=CL-touKfsOgCFcsN4AodwmkAQA)
+* [Telefonica, O2 - Drosselung aufgehoben](https://www.telefonica.de/news/corporate/2020/03/aktuelle-informationen-jederzeit-informiert-und-ueber-alle-kanaele-vernetzt-bleiben-o2-sichert-grundkommunikation-von-millionen-privat-und-geschaeftskunden.html?state=online&feed_month=03&feed_year=2020&slug=corporate)
 
 ## Krisen und Corona Apps
 * [Nui.care](https://nui.care)
