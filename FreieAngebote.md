@@ -15,10 +15,15 @@
 * [Berliner Philhamronie](https://www.digitalconcerthall.com/en/home)
 * [All Of Bach](https://www.bachvereniging.nl/en/allofbach)
 * [Wiener Staatsoper](https://www.staatsoperlive.com/)
+* [United we Stream - Clubmusik](https://www.chip.de/downloads/webapp-United-We-Stream-Clubbing-in-Quarantaene_182559977.html)
 
 ## Schule E-Learning
 
 * [Open HPI](https://open.hpi.de/)
+* [Simpleclub](https://support.simpleclub.com/de/articles/3793519-schulschliessung-wegen-corona-virus)
+* [Lernattacke](https://learnattack.de/corona)
+
+
 
 ## Online Angebote Home Office
 
